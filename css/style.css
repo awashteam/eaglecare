@@ -411,6 +411,8 @@ h1 {
 
     .text-secondary {
       color: #0e0be9;
+      text-align: center;
+      
       /* background: #c4c4c4;  */
     }
 
